@@ -1,3 +1,9 @@
+### Website Boiler
+
+- Pug
+- semantic ui
+- gulp
+
 ### Getting Started
 
 - clone the project
